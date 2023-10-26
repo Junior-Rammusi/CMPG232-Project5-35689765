@@ -26,7 +26,7 @@ Stakeholders can use the EcoPower Logistics Report for numerous purposes like:
 - Using the report pages , the user can go through the different visuals that are presented by the report ,that being the high level metrics,customer,product and the order pages
 - For proper business decision making the report is used by the manager to make the best decisions for the EcoPower Logistics company  
 
-#Reference List
+# Reference List
 
 
 Simon Sez IT.2022.Visualations in Power BI.https://www.youtube.com/watch?v=n1g3AJ0G58g.Date of access: 22 Oct.2023
