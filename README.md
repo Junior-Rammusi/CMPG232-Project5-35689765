@@ -29,14 +29,14 @@ Stakeholders can use the EcoPower Logistics Report for numerous purposes like:
 # Reference List
 
 
-Simon Sez IT.2022.Visualations in Power BI.https://www.youtube.com/watch?v=n1g3AJ0G58g.Date of access: 22 Oct.2023
-Leila Gharani.2022.Power BI Tutorial For Beginners | Create Your First Dashboard Now (Practice Files included).https://www.youtube.com/watch?v=c7LrqSxjJQQ.Date of access:22 Oct.2023.
-Kevin Stratvert.2023.Power BI Tutorial for Beginners.https://www.youtube.com/watch?v=NNSHu0rkew8.Date of access:23 Oct.2023.
-Microsoft Power BI.(n.d.). Storytelling in Power BI. https://powerbi.microsoft.com/en-us/data-storytelling/.Date of access:25 Oct.2023.
-Power BI Community. (n.d.). Power BI Community. https://community.powerbi.com/.Date of access:25 Oct.2023.
-Microsoft Power BI.2022. Power BI YouTube Channel. https://www.youtube.com/user/mspowerbi.Date of access:25 Oct.2023.
-Stack Overflow.2023. Microsoft Power BI Community on Stack Overflow. https://stackoverflow.com/questions/tagged/powerbi.Date of access:25 Oct.2023.
-Twitter. (n.d.). Power BI Twitter Community. https://twitter.com/hashtag/PowerBI.Date of access:25 Oct.2023.
-TutorialsPoint. (n.d.).Sharing Power BI Dashboards.https://www.tutorialspoint.com/power_bi/power_bi_sharing_dashboards.htm.Date of access:26 Oct.2023. 
-Freepik.(n.d.).Power Bi Dashboard Templates Images.https://www.freepik.com/free-photos-vectors/power-bi-dashboard-templates.Date of access:22 Oct.2023
+- Simon Sez IT.2022.Visualations in Power BI.https://www.youtube.com/watch?v=n1g3AJ0G58g.Date of access: 22 Oct.2023
+- Leila Gharani.2022.Power BI Tutorial For Beginners | Create Your First Dashboard Now (Practice Files included).https://www.youtube.com/watch?v=c7LrqSxjJQQ.Date of access:22 Oct.2023.
+- Kevin Stratvert.2023.Power BI Tutorial for Beginners.https://www.youtube.com/watch?v=NNSHu0rkew8.Date of access:23 Oct.2023.
+- Microsoft Power BI.(n.d.). Storytelling in Power BI. https://powerbi.microsoft.com/en-us/data-storytelling/.Date of access:25 Oct.2023.
+- Power BI Community. (n.d.). Power BI Community. https://community.powerbi.com/.Date of access:25 Oct.2023.
+- Microsoft Power BI.2022. Power BI YouTube Channel. https://www.youtube.com/user/mspowerbi.Date of access:25 Oct.2023.
+- Stack Overflow.2023. Microsoft Power BI Community on Stack Overflow. https://stackoverflow.com/questions/tagged/powerbi.Date of access:25 Oct.2023.
+- Twitter. (n.d.). Power BI Twitter Community. https://twitter.com/hashtag/PowerBI.Date of access:25 Oct.2023.
+- TutorialsPoint. (n.d.).Sharing Power BI Dashboards.https://www.tutorialspoint.com/power_bi/power_bi_sharing_dashboards.htm.Date of access:26 Oct.2023. 
+- Freepik.(n.d.).Power Bi Dashboard Templates Images.https://www.freepik.com/free-photos-vectors/power-bi-dashboard-templates.Date of access:22 Oct.2023
 
